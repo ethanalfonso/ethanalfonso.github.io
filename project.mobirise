@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-01-25_1749",
-    "currentPage": "photoshop.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 56,
+    "uniqCompNum": 59,
     "versionPublish": "3.11.1",
     "path": "file:///E:/assets",
     "screenshot": "screenshot.png"
@@ -128,6 +128,42 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "header1",
+          "_anchor": "header1-1m",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1324.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Ethan Alfonso",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "header2",
           "_styles": {
             ".mbr-section-title SPAN": {
@@ -150,7 +186,7 @@
             "imageSize": "33",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/fire-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/football12-2000x1050.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1821,6 +1857,11 @@
             "Theme"
           ],
           "_name": "gallery3",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "color": "#ffffff"
+            }
+          },
           "_params": {
             "paddingTop": "4",
             "paddingBottom": "2",
@@ -1916,12 +1957,7 @@
           },
           "_anchor": "gallery3-1j",
           "articleLayout": false,
-          "allItem": "All",
-          "_styles": {
-            ".mbr-gallery-item > div > span": {
-              "color": "#ffffff"
-            }
-          }
+          "allItem": "All"
         }
       ]
     },

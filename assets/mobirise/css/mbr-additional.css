@@ -1,9 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
 
 
 
@@ -479,6 +480,10 @@ h6,
 #ext_menu-b .link[aria-expanded="true"],
 #ext_menu-b .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#header1-1m .mbr-section-title {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
 }
 #header2-14 .mbr-section-title SPAN {
   text-align: left;
