@@ -1305,6 +1305,9 @@ h6,
 #ext_menu-1f .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#gallery3-1j .mbr-gallery-item > div > span {
+  color: #ffffff;
+}
 #ext_menu-1f .hide-buttons .nav-btn {
   display: none !important;
 }
