@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 69,
+    "uniqCompNum": 70,
     "versionPublish": "3.11.1",
     "path": "file:///E:/assets/Student%20Portfolio/assets",
     "screenshot": "screenshot.png"
@@ -255,7 +255,7 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/watch?v=zhh5VFpJGB"
+              "url": "https://www.youtube.com/channel/UCIUKVfI5BE6r2o_VP_1uuWw"
             },
             "bgVideoRadio": true,
             "overlay": true,
@@ -268,6 +268,32 @@
           "title": "",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-1x",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> "
         },
         {
           "_tags": [
@@ -494,7 +520,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/signature-for-mobirise-website-384x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/signature-for-mobirise-website-384x1284.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -589,7 +615,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/signature-for-mobirise-website-384x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/signature-for-mobirise-website-384x1284.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -684,7 +710,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/signature-for-mobirise-website-384x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/signature-for-mobirise-website-384x1284.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -779,7 +805,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/signature-for-mobirise-website-384x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/signature-for-mobirise-website-384x1284.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -874,7 +900,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/signature-for-mobirise-website-384x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/signature-for-mobirise-website-384x1284.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -969,7 +995,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/signature-for-mobirise-website-384x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/signature-for-mobirise-website-384x1284.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1064,7 +1090,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/signature-for-mobirise-website-384x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/signature-for-mobirise-website-384x1284.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1347,7 +1373,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/signature-for-mobirise-website-384x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/signature-for-mobirise-website-384x1284.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1442,7 +1468,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/signature-for-mobirise-website-384x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/signature-for-mobirise-website-384x1284.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1537,7 +1563,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/signature-for-mobirise-website-384x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/signature-for-mobirise-website-384x1284.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1632,7 +1658,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/signature-for-mobirise-website-384x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/signature-for-mobirise-website-384x1284.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1727,7 +1753,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/signature-for-mobirise-website-384x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/signature-for-mobirise-website-384x1284.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1930,7 +1956,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/signature-for-mobirise-website-384x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/signature-for-mobirise-website-384x1284.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -2025,7 +2051,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/signature-for-mobirise-website-384x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/signature-for-mobirise-website-384x1284.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -2120,7 +2146,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/signature-for-mobirise-website-384x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/signature-for-mobirise-website-384x1284.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -2215,7 +2241,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/signature-for-mobirise-website-384x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/signature-for-mobirise-website-384x1284.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",

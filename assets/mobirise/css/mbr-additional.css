@@ -493,6 +493,10 @@ h6,
 #msg-box8-1p p {
   color: #fff;
 }
+#social-buttons2-1x .mbr-section-title,
+#social-buttons2-1x .btn-social {
+  color: #232323;
+}
 #ext_menu-1f .hide-buttons .nav-btn {
   display: none !important;
 }
