@@ -483,6 +483,9 @@ h6,
   font-family: 'PT Serif', serif;
   font-size: 30px;
 }
+#social-buttons1-1u .mbr-section-title {
+  color: #ffffff;
+}
 #gallery2-1o .mbr-gallery-item > div > span {
   color: #ffffff;
 }
@@ -496,6 +499,12 @@ h6,
 }
 #social-buttons4-1s .mbr-section-title {
   color: #ffffff;
+}
+#contacts4-1r P {
+  color: #000000;
+}
+#contacts4-1r STRONG {
+  color: #000000;
 }
 #ext_menu-1f .hide-buttons .nav-btn {
   display: none !important;
